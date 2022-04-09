@@ -1,4 +1,3 @@
-hello!!!
-privet!!!
-salut!!
-aloha!
+hello!!!!
+aloha!!!!
+shalom!!!
