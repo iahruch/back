@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-new features!
-=======
-new features!
-!!!
->>>>>>> add-feature
+New feature! 
+some fixed
